@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EjemploIntentCamera</string>
+    <string name="Cap">Captura Miniatura</string>
+    <string name="cap2">Captura Alta Resolución</string>
+</resources>
